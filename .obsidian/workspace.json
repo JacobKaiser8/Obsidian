@@ -4,22 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "b22da7d3549762df",
+        "id": "1040004dc8682508",
         "type": "tabs",
         "children": [
+          {
+            "id": "81c697e3bccf8ce1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
           {
             "id": "33781465b1149bd6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-05-04 19.00.21.excalidraw.md"
+                "file": "Special Animals.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-05-04 19.00.21.excalidraw"
+              "icon": "lucide-file",
+              "title": "Special Animals"
+            }
+          },
+          {
+            "id": "87b653df338cf299",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -148,13 +171,23 @@
               "icon": "lucide-list",
               "title": "Outline of Inspiration"
             }
+          },
+          {
+            "id": "26ddefefc46b473c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,9 +201,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "33781465b1149bd6",
+  "active": "2e47e15c5edacb8f",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-05-04 19.04.09.excalidraw.md",
     "Excalidraw/Drawing 2025-05-04 19.00.21.excalidraw.md",
+    "Special Animals.md",
     "Excalidraw",
     "Canvas Images/Pasted image 20250425101002.png",
     "Untitled.md",
@@ -188,7 +223,6 @@
     "Story Progression/Marcus Progression.md",
     "Chapters/Chapter 2.md",
     "World Building/Locations/2.0 Frostrike.md",
-    "Special Animals.md",
     "Westing House.md",
     "Canvas Images/Pasted image 20241002155356.png",
     "World Building/Locations/00. Inspiration Images.canvas",
@@ -205,7 +239,6 @@
     "World Building/Characters/0. Characters.md",
     "World Building/Characters/Yirmiyahu.md",
     "Notes/Book club Notes/Connor's Book.md",
-    "Notes/Brandon Sanderson Lectures/B. Sanderson Lecture 4 Viewpoints.md",
     "Notes/Book club Notes",
     "Canvas Images/Pasted image 20240826131454.png",
     "Canvas Images/Pasted image 20240826130225.png",
