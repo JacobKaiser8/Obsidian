@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c63d9b20dd155251",
+        "id": "b22da7d3549762df",
         "type": "tabs",
         "children": [
           {
-            "id": "829411777db68005",
+            "id": "33781465b1149bd6",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "World Building/Characters/Deities/Inspiration.canvas",
-                "viewState": {
-                  "x": 411,
-                  "y": -5.891241830065383,
-                  "zoom": -0.20084102886298835
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Inspiration"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -168,16 +161,19 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "829411777db68005",
+  "active": "2e47e15c5edacb8f",
   "lastOpenFiles": [
-    "Pasted image 20250425101515.png",
-    "Pasted image 20250425101002.png",
+    "Canvas Images/Pasted image 20250425101515.png",
+    "Canvas Images/Pasted image 20250425101002.png",
+    "Chapters/Chapter 1.md",
+    "World Building/Characters/Deities/Inspiration.canvas",
     "World Building/Characters/Character Inspiration.canvas",
     "Canvas Images/Pasted image 20250425095557.png",
-    "World Building/Characters/Deities/Inspiration.canvas",
     "Canvas Images/Pasted image 20250425100417.png",
     "World Building/Characters/Deities/Deities Overview.md",
     "World Building/Characters/Deities/Chikako.md",
@@ -186,7 +182,6 @@
     "Story Progression/Deific Progression.md",
     "Story Progression/Marcus Progression.md",
     "Chapters/Chapter 2.md",
-    "Chapters/Chapter 1.md",
     "World Building/Locations/2.0 Frostrike.md",
     "Special Animals.md",
     "Westing House.md",
@@ -212,7 +207,6 @@
     "Canvas Images/Pasted image 20240826130225.png",
     "Canvas Images/Pasted image 20240826130205.png",
     "Canvas Images/Pasted image 20240826130134.png",
-    "Canvas Images/Pasted image 20240826125550.png",
     "Notes/Brandon Sanderson Lectures",
     "Chapters",
     "Notes/Story Archetypes",
