@@ -11,10 +11,12 @@
             "id": "33781465b1149bd6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-05-04 19.00.21.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-05-04 19.00.21.excalidraw"
             }
           }
         ]
@@ -166,10 +168,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2e47e15c5edacb8f",
+  "active": "33781465b1149bd6",
   "lastOpenFiles": [
-    "Canvas Images/Pasted image 20250425101515.png",
+    "Excalidraw/Drawing 2025-05-04 19.00.21.excalidraw.md",
+    "Excalidraw",
     "Canvas Images/Pasted image 20250425101002.png",
+    "Untitled.md",
+    "Canvas Images/Pasted image 20250425101515.png",
     "Chapters/Chapter 1.md",
     "World Building/Characters/Deities/Inspiration.canvas",
     "World Building/Characters/Character Inspiration.canvas",
@@ -201,7 +206,6 @@
     "World Building/Characters/Yirmiyahu.md",
     "Notes/Book club Notes/Connor's Book.md",
     "Notes/Brandon Sanderson Lectures/B. Sanderson Lecture 4 Viewpoints.md",
-    "Notes/Brandon Sanderson Lectures/B. Sanderson Lecture 5 World Building Pt 1.md",
     "Notes/Book club Notes",
     "Canvas Images/Pasted image 20240826131454.png",
     "Canvas Images/Pasted image 20240826130225.png",
@@ -215,7 +219,6 @@
     "World Building",
     "World Building/Locations",
     "World Building/Characters/Deities",
-    "World Building/Characters",
     "Magic System/Untitled.canvas"
   ]
 }
