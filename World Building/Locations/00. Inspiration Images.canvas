@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"111614202e62caf6","type":"group","x":-680,"y":-290,"width":840,"height":2470,"label":"Maps"},
+		{"id":"39fe1e263319a169","type":"group","x":-1360,"y":-290,"width":640,"height":1850,"label":"Dormiens Ignis"},
+		{"id":"baf5f9529d28d7c4","type":"group","x":180,"y":-290,"width":440,"height":1240,"label":"Architecture"},
+		{"id":"9bde9b12358fa0d9","type":"file","file":"Canvas Images/Pasted image 20240701120850.png","x":-641,"y":930,"width":400,"height":397},
+		{"id":"9c7335f51e43a6f1","type":"file","file":"Canvas Images/Pasted image 20240701104413.png","x":-640,"y":530,"width":400,"height":400},
+		{"id":"7ab9817f34fe9646","type":"file","file":"Canvas Images/Pasted image 20240701104020.png","x":-640,"y":130,"width":399,"height":400},
+		{"id":"427b40f3d852fd60","type":"file","file":"Canvas Images/Pasted image 20240701104914.png","x":198,"y":530,"width":400,"height":400},
+		{"id":"1c3c30c2e0432650","type":"file","file":"Canvas Images/Pasted image 20240701103812.png","x":200,"y":130,"width":399,"height":400},
+		{"id":"2b6f30ece59625cb","type":"file","file":"Canvas Images/Pasted image 20240701121246.png","x":-241,"y":126,"width":397,"height":400},
+		{"id":"5b4515130a9952e3","type":"file","file":"Canvas Images/Pasted image 20240701104339.png","x":-640,"y":-270,"width":400,"height":400},
+		{"id":"aee68834cb27875a","type":"file","file":"Canvas Images/Pasted image 20240701103457.png","x":200,"y":-270,"width":398,"height":400},
+		{"id":"f0e89f3836cebb61","type":"file","file":"Canvas Images/Pasted image 20240701121327.png","x":-240,"y":-266,"width":400,"height":392},
+		{"id":"0ea895ef254a8dd4","type":"file","file":"Canvas Images/Pasted image 20240701110527.png","x":-1320,"y":149,"width":513,"height":341},
+		{"id":"1395fdf2848d127e","type":"file","file":"Canvas Images/Pasted image 20241002085627.png","x":-1320,"y":490,"width":532,"height":510},
+		{"id":"4b5211ec1a10f5f5","type":"file","file":"Canvas Images/Pompeii.png","x":-1320,"y":-250,"width":400,"height":399},
+		{"id":"241ea991520c7687","type":"file","file":"Canvas Images/Pasted image 20241002155356.png","x":-1760,"y":-250,"width":362,"height":400}
+	],
+	"edges":[]
+}

@@ -1,0 +1,65 @@
+- Deity of Fire
+- Born in the beginning of the story
+- Power of fire
+	- Starts with warming
+	- Hard to control
+	- Similar to fire bending
+	- Can summon flames on anything the [[Fire Born]] is touching
+	- Use of fire magic increases heat inside a person
+		- The limit to the magic is the amount of heat that one person can withstand
+		- Primus is at an advantage because he has seared his arms and legs
+	- Control levels
+		- #LowSkill:
+			- heat ones body
+			- conjure flames on surfaces
+			- only able to control amount of flames relative to ones ability to handle body temp
+				- As a result can burn away ailment
+		- #MediumSkill:
+			- can create uncontrolled explosions of heat around ones self. Can kill the user or make unconscious
+			Specific Magic Skills
+				- fireballs
+					- stored heat when thrown then hits against object explodes
+					- wielder puts fire and energy into one location and creates the fireball with control
+						- lower control creates large balls with less impact explosion
+						- higher control fireballs can be made in one had with higher impact explosion
+				- spray fire
+					- spray fire in an arc
+				- combustion
+					- explode around ones self
+				- touching people and igniting them
+					- speed at which the fire spreads will be determinate on the skill of the user
+				- imbue weapons with fire
+					- fire weapons like lightsabers
+					- ice fails to fire, absorbed lightning amplifies the heat, wind doesn't affect, Earth is unaffected by fire
+					- weapon has to be compatible to fire i.e. wood staffs/swords etc. are consumed
+					- Steel weapons are the best. Other metals only allow for a weaker amount of fire
+			- cover limbs in flames to augment physical combat
+			- can exude internal heat like a heat venting allowing for more use of fire
+				- when venting, the flames can not grow as much because the heat is not being stored. Someone venting cannot create as intense of flames as someone who is storing heat
+				- can pass heat to environment/people around them
+		- #HighSkill:
+			- fire bender
+			- can control fire directionally using hands/feet/mouth/; jets of fire, create swords of flame with concentrated heat
+				- Since flames come from the wielder, shoes are not reasonable when controlling fire through the feet
+			- can store heat within a heat sink of some sort allowing for heat sink limited use of power + user
+				- heat sinks can be swords, amulets, armor.
+			- effortless of directional heat
+			- can propel ones self through the air
+				- not like wind who can basically fly with precise control, but more like a rocket that gets propelled in a direction
+					- I guess you could control fire to a stop. but remaining in one place would be difficult with only 4 directions. Not possible to have a spacecraft omni direction air jets for control
+			- 
+- Depicted as a Uthaenid Dire Wolf with larger front legs
+	- Fur is all on fire
+	- Eyes glow like molten metal
+	- Heat is overwhelming at first but quickly learns to reduce it
+	- Claws melt through everything when lit
+		- Lights up when enraged
+- Personality
+	- Gender: Female
+	- Goal: Grow and make a place in the world
+	- View towards Fire Born: Likes her own children. Nurturing and anguished when they go through pain and suffering caused by her flames.
+	- Wants to inspire innovation and progress
+		- Disapproves of destruction that the [[1.0 Constituto Empire]] begins to wreck over the world
+		- [[1.0 Constituto Empire]] views progress as hindering everyone else from destroying themselves and uniting everyone under one banner to eliminate barriers to progress
+	- [[1.1.0 Marcus Equites]] sees progress as uniting the nations in cause and allowing individuals to flourish
+- 

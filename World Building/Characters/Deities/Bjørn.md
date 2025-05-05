@@ -1,0 +1,7 @@
+- Deity of Ice
+- Depicted as a polar bear
+	- Clad in armor of ice
+	- Claws of ice
+	- Sharp ice blue eyes
+	- Scars over its face
+- 

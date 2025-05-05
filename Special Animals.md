@@ -1,0 +1,30 @@
+- Uthaenid
+	- Uthaenid Dire wolves
+		- Larger front legs
+		- Claws the size of daggers
+		- Larger heads to match the increased shoulder size
+		- Fur in the front is more dense
+	- Uthaenid Deer
+		- Six legged
+		- Allows them to run faster
+	- Uthaenid Cows
+		- Larger legs for more efficient and stronger beasts of burden
+	- War Polar Bears
+		- [[2.0 Frostrike]]
+		- Fur armored with ice
+		- larger than regular polar bears
+	- Giant Sea Turtles
+		- In the ocean
+		- Aggressive
+	- Giant Owls
+		- [[4.0 Chishiki no Kaze]]
+		- Intelligent, understand human intentions
+		- Works with the [[4.0 Chishiki no Kaze]] to create libraries
+	- Shadow Panthers
+		- [[6.0 Abodeena]]
+		- Panthers that seem to move with the shadows
+		- Protects the heart of the world
+	- Stone Rhinos
+		- [[5.0 Tihi Kohatu]]
+		- Horns and hide made of stone
+		- Plates of stone on their sides

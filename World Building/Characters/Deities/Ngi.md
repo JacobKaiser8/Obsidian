@@ -1,0 +1,8 @@
+- Deity of Stone
+- Depicted as a Gorilla?
+	- Arms made from granite
+	- Stoney eyes
+	- Huge
+	- Fur doesn't shift as it walks
+		- made of stone
+	- 

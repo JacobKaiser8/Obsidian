@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"94e92b001ca606da","type":"file","file":"Canvas Images/Pasted image 20240722082405.png","x":-780,"y":-300,"width":396,"height":400},
+		{"id":"a8f812a251a4083f","type":"file","file":"Canvas Images/Pasted image 20240722082648.png","x":12,"y":-300,"width":400,"height":398},
+		{"id":"6e2bf8e12b295389","type":"file","file":"Canvas Images/Pasted image 20240722084308.png","x":1210,"y":-300,"width":400,"height":400},
+		{"id":"ffe1d51fa49cdaf1","type":"file","file":"Canvas Images/Pasted image 20240722084321.png","x":1210,"y":98,"width":395,"height":400},
+		{"id":"24f1264d6f2e2318","type":"file","file":"Canvas Images/Pasted image 20240823134905.png","x":-788,"y":104,"width":400,"height":394},
+		{"id":"b325298eaa2dc6bb","type":"file","file":"Canvas Images/Pasted image 20240823135356.png","x":13,"y":104,"width":398,"height":400},
+		{"id":"805a91755a0e6517","type":"file","file":"Canvas Images/Pasted image 20240722082431.png","x":-383,"y":101,"width":396,"height":400},
+		{"id":"36b0a0a73f200b8f","type":"file","file":"Canvas Images/Pasted image 20250425095557.png","x":-319,"y":-302,"width":268,"height":400},
+		{"id":"d3a8c353c7784499","type":"file","file":"Canvas Images/Pasted image 20240722083143.png","x":411,"y":104,"width":398,"height":400},
+		{"id":"61d237f1abeb12cc","type":"file","file":"Canvas Images/Pasted image 20250425100417.png","x":473,"y":-301,"width":274,"height":400},
+		{"id":"d9441d8ed808deb0","type":"file","file":"Pasted image 20250425101515.png","x":880,"y":-102,"width":266,"height":400}
+	],
+	"edges":[]
+}

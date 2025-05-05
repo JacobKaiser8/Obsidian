@@ -1,0 +1,6 @@
+- I noticed that Connor does a lot of the abstract before the concrete in his sentences
+- The tone is very... reverent maybe? Maybe somber? It certainly feels more monk like
+- Once again very good descriptions. Maybe give some of that to Talmid and his thoughts. I don't feel like I know much about Talmid 3 chapters in that sets him apart. 
+	- There was the zealous fire interaction
+	- There was the Ascension but we didn't really see his feelings on it other than what culture told us he should feel.
+	- It seems that he is a character in a story rather than you are telling us his story.

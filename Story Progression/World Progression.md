@@ -1,0 +1,53 @@
+- History
+- Current
+	- Humans began to grow in their own, creating their own civilizations and also growing closer to the desires of their respective deity. Through the growth of the human world, there were growing pains. The people would war one with another looking to corner land a resources. During this time the nations began to shake out and form into what they are today.
+	- Once the nations formed, they started to develop on their own and then began to develop international relations. 
+	- The fledgling nation of [[1.0 Constituto Empire]] observed to have some of the greatest resources that others would need. The people of the [[2.0 Frostrike]], being natural navigators and moving freely across the ocean, and then the people of [[5.0 Tihi Kohatu]] seeing it as an opportunity to further fortify themselves decided to wage war with [[1.0 Constituto Empire]] to conquer the valuable. Although both waring with [[1.0 Constituto Empire]] they did not work together.
+	- [[3.0 Suirlin]] and [[4.0 Chishiki no Kaze]] did not participate in the war as it did not have any value to their own goals. 
+	- The great war lasted 117 years and ended with the [[1.0 Constituto Empire]] successfully defending the attackers. They were able to make peace with the [[5.0 Tihi Kohatu]] showing that they would be able to successfully defend this part of the world. The treaty was signed by all the other countries except for [[2.0 Frostrike]] who although warded off did not stop raiding and taking what they could when they could.
+	- The world is in an agreed upon peace. There is no open conflict between countries and trade is free between countries. The only form of conflict is that the [[2.0 Frostrike]] raid the coast of other countries.
+		- The [[2.0 Frostrike]] raid for resources and slaves. 
+	- The current state of [[1.0 Constituto Empire]] is that they are without any of the #Yirmiyahu. This has left them in what would appear to be in a militarily weak position. Historically they were preyed upon by the other nations because the perceived weakness. With this issue they were required to increase in strength via other means. 
+	- They used military strategy and education in their leadership to create a cohesive army. This game them the defensive posture to be able to defend themselves and their land.
+	- In the current geopolitical situation the Empire is only defending themselves against raids from the [[2.0 Frostrike]] and defending their northern boarder from them.
+		- The [[2.0 Frostrike]] do posture themselves in an aggressive manner on the northern boarder.  This also helps to prevent raids on the northern settlements.
+- Future
+	- The invasion of the [[2.0 Frostrike]]
+		- The senators of the Empire decide that in order to prevent a future conflict or anther cataclysmic event they need to deal the the [[2.0 Frostrike]] once and for all. This would give them a posture that presumes confidence rather than being on the back foot reacting to raids or other stronger conflicts.
+		- The [[1.0 Constituto Empire]] elects an Emperor to the throne to provide them with the military strength to invade the [[2.0 Frostrike]]. They only have the intent to weaken them to the point of not being able to retaliate. 
+		- Being successful in their campaign to the north, the [[1.0 Constituto Empire]] ad the Emperor feel confident in their ability to control and maintain control over an extended portion of the world. The [[1.0 Constituto Empire]] is able to provide for their entire empire and greatly reduce the power of the [[2.0 Frostrike]] to the point of the raids being individual groups rather than being organized and destructive.
+		- This invasion garners either resources or moral support from other nations such as the [[3.0 Suirlin]] and the [[5.0 Tihi Kohatu]].
+	- The thriving Empire
+		- The [[1.0 Constituto Empire]] thrives on its success of gaining new territories and new resources. They appear to be able to assimilate the new people into their Empire and create a more powerful nation. The reality is that they are managing this through force and conscription. Without the strength of the warriors of the [[2.0 Frostrike]] they are unable to mount any sort of real resistance. 
+		- The [[1.0 Constituto Empire]] is able to recover their loses and manage their resources to the point where they are once again at full strength quickly
+		- The other nations that supported them are congratulatory in their success
+	- The plan to unite
+		- The Emperor convinces the senators, through a game of politics, that in fact the world would be a safer place under one nation. Without the worry of safeguarding resources or knowledge, then there won't need to be raiding or any mass scale conflict. 
+		- They create a plan to unite all the nations under one nation by invitation or by force. 
+			- The Emperor is being manipulated by the [[Kaplakhan]] in all of this and presumes that they will be able to acquire the power to do so because of the whisperings of the [[Kaplakhan]]
+		- More game of politics are played through the other nations. At first a coalition is proposed. The coalition would allow for the rest of the nations to communicate with each other on a political level. They would be able to agree upon certain terms and would be bale to deal with localized conflicts with the support of the other nations. 
+		- The [[1.0 Constituto Empire]] has a plan to remain as the dominant force of the coalition to be able to posture themselves when the time is needed to get support from the weaker of the nations as well as bully the other nations into submission.
+			- [[2.0 Frostrike]] is quickly bullied into submission, recognizing that the Empire is the stronger of the nations and it being within their culture to follow the strongest.
+			- [[3.0 Suirlin]] assimilates having the promise of peace and strength that they have lacked for many years. Being a nomadic people they have never had the cohesion to build something of their own. They are also promised by the [[Kaplakhan]] that they will be able to unlock further potential with the bond that they have
+		- The [[4.0 Chishiki no Kaze]] and the [[5.0 Tihi Kohatu]] create a secret alliance in fear that the other side of the coalition is growing in power over them all.
+		- The [[6.0 Abodeena]] remain neutral on everything. Eventual when the cold war reaches a violent conflict, the [[6.0 Abodeena]] join the [[4.0 Chishiki no Kaze]] and the [[5.0 Tihi Kohatu]] feeling that their side did not start conflict and so have the moral high ground
+	- The coalition war
+		- The [[1.0 Constituto Empire]] begins to make plans to invade the [[4.0 Chishiki no Kaze]] and the [[5.0 Tihi Kohatu]] simultaneously.
+		- The invasion against the [[5.0 Tihi Kohatu]] will be done by the [[1.0 Constituto Empire]] and the [[2.0 Frostrike]].
+		- The invasion against the  [[4.0 Chishiki no Kaze]] will be primarily handled by the [[3.0 Suirlin]] but lead by the [[1.0 Constituto Empire]]
+			- The [[1.0 Constituto Empire]] at this point looks down on those that are not from the empire originally. They do not handle the siege well which plays into the great losses incurred
+	- The invasion of the heart of the world
+		- With the coalition of the [[4.0 Chishiki no Kaze]] and the [[5.0 Tihi Kohatu]] being defeated they retreat into the sanctuary that is the heart of the world as their last bastion
+		- The coalition headed by the [[1.0 Constituto Empire]], having the last step being the [[6.0 Abodeena]], make quick preparations to take the heart. They do not take the time to assimilate and grow in power again. 
+		- They make a hasty march towards the heart.
+		- The heart is defended by living flora and extra aware fauna.
+			- This creates a very difficult incursion for the [[1.0 Constituto Empire]]
+		- There is gorilla warfare and hit and run tactics throughout the heart of the world by the defenders
+		- The coalition of the [[1.0 Constituto Empire]] is still successful in their forward progress although being hampered at every step
+	- The end of an Emperor
+		- The invasion is halted when the emperor dies by the hand of [[1.1.0 Marcus Equites]]
+		- When [[1.1.0 Marcus Equites]] kills the emperor there is an explosion from the avatar being released from [[1.1.0 Marcus Equites]] similar to a volcano exploding. This is seen by those within the heart of the world. Those unable to see the explosion itself see the night sky illuminated as though it were day
+		- With the emperor being killed and [[Kaplakhan]] also being killed, there is a shift in the balance of power. Those with the power of lightning are no longer able to wield the third tier. This weakens the [[1.0 Constituto Empire]] coalition to the point of not being able to advance further.
+		- They are beaten back.
+	- The rebuilding of a world
+		- 

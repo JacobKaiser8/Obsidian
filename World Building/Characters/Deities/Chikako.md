@@ -1,0 +1,7 @@
+- Deity of Air
+- Depicted as an Eagle Owl
+	- Knowing eyes
+	- Talons larger proportioned
+	- Feathers standing on either side of her head
+	- Tall
+	- 

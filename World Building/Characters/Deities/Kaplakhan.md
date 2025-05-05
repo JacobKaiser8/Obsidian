@@ -1,0 +1,8 @@
+- Deity of Lightning
+- Depicted as a Bengal Tiger
+	- Mangey
+	- Darting eyes
+	- Not stalky but looks malnourished
+	- blue color with white stripes
+	- 
+	- 

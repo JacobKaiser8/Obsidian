@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"0bd19c4b8b3267e5","type":"group","x":-340,"y":-380,"width":440,"height":1295,"label":"Untitled group"},
+		{"id":"d3027764ed6ac595","type":"file","file":"Canvas Images/Pasted image 20240826125550.png","x":-780,"y":-300,"width":399,"height":400},
+		{"id":"cf6cd287819e9c3b","type":"text","text":"Jason","x":-780,"y":-360,"width":250,"height":60},
+		{"id":"a141706ca9793821","type":"file","file":"Canvas Images/Pasted image 20240826130225.png","x":-320,"y":497,"width":400,"height":398},
+		{"id":"cc595a637fbe6c33","type":"file","file":"Canvas Images/Pasted image 20240826130205.png","x":-320,"y":98,"width":400,"height":399},
+		{"id":"35825a8a6b543e2b","type":"file","file":"Canvas Images/Pasted image 20240826130134.png","x":-320,"y":-300,"width":400,"height":398},
+		{"id":"dee7d052805a522a","type":"text","text":"Marcus","x":-320,"y":-360,"width":250,"height":60},
+		{"id":"6ffa8bf23cd6d67b","type":"file","file":"Canvas Images/Pasted image 20240826131454.png","x":-1280,"y":260,"width":400,"height":201}
+	],
+	"edges":[]
+}

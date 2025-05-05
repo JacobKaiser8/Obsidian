@@ -1,0 +1,72 @@
+- History
+- Current
+	- Marcus is the son of an Army senator
+	- He is studying to become a soldier in that army. It has been an ambition he has had since he was a kid
+	- He lacks any sort of talent that would have him stand out as an example amongst his peers
+	- Right now his personality is very one track mind and focuses on what he wants. He believes that he is better than some of the more menial workers thinking that the army is a prestigious role.
+- Future
+	- The explosion of #Mons_Igni /brought into slavery and being broken down
+		- Once the explosion of #Mons_Igni happens Marcus's world is rocked.
+		- Everyone and everything he knew was obliterated by the volcano
+			- There are characters that come back throughout the story as it goes on as he thinks they were dead but they made it out some how. Either being bonded or just lucky
+		- In addition to his world being obliterated, he is kidnaped into slavery by raiders hoping to take advantage of the dire situation.
+		- With all these things happening at once, Marcus is thrown into a mental state of complete sobriety
+		- He looks at everything as just another kick in the back side that life has dealt him. He has truly been humbled to the point of complete abjection
+			- He is given work by the slavers that he fails at being an academy boy his whole life. In failing he receives punishment until he gets it right and sometimes after because the slavers were made to exert more effort in punishing.
+		- Marcus sees others being punished and still being naturally selfish in his ways he keeps his head down hoping to avoid further punishment just for looking.
+		- Depression sinks in and he contemplates ending his own life.
+		- His only "friend" finds him on the edge and tells him that its not worth it. If he took his own life now, the slavers would win. This bring him back from the edge this time but he still struggles with thoughts of ending it.
+		- The thing that sparks a fire in him and gives him something real to hold onto is that friend is murdered by the slavers for no reason. This gives Marcus the rage and motivation to enact revenge for his friend. This also creates another crutch for him in being vengeful that hinders him later from unlocking his full potential
+	- Life in [[2.0 Frostrike]]
+		- (Some of the previous section will be addressed in this part of the story as well)
+		- In [[2.0 Frostrike]] Marcus begins to discover his powers. Other survivors of the [[1.0 Constituto Empire]] also discover their powers here. Those that discovered their power on the boat grow in their powers. 
+			- Some grow too much and explode/overheat/are killed by the [[2.0 Frostrike]]
+		- Marcus continually hides his powers hoping to not be discovered. [[2.0 Frostrike]] hate fire and anyone that can wield fire will be thought to be the antithesis of everything of their nation.
+		- With the growth of his power Marcus focuses on wielding it for vengeance. This hampers him and others that harbor the same.
+		- Marcus observes someone that is passionate about this new found ability rather than just using it as a tool for violence.
+			- This individual grows and improves much faster than the rest.
+		- Marcus still won't let vengeance go and so is limited in what he can do. He is also much closer to the edge of self destruction.
+		- Marcus cannot exact revenge on the specific individual because he was sold to another village.
+		- Although harboring anger towards the nation as a whole, he begins to be grateful for the minimal beatings and the acknowledgement as a human that the current tribes authority gives him.
+	- Tribe on Tribe conflict
+		- Just as Marcus is beginning to get into the routine of being a slave/working hand another tribe attacks.
+		- The things that Marcus had begun to appreciate are once again taken away from him. 
+			- Shelter, routine, education
+			- In these things being taken away from him, Marcus reflects on his home life and how he took for granted the things there. (Family, education, friends, etc.) Galvinious' words come back to him that he should appreciate everyone for their roles. 
+		- The new Tribal authority takes Marcus and puts him back into the role of a slave that has no rights and is treated as less than an animal.
+		- The point of his revenge, the slaver that murdered his friend, however, is in this new tribe. This allows for Marcus once again to move forward with a goal in mind.
+			- Marcus thinks that this is what the other slave was referring to when he needed to have something that he is passionate about
+		- He ends up killing the slaver but the exhilaration and the satisfaction is fleeting.
+			- Marcus comes to the realization that revenge is not he same as a worthy passion
+		- This reflection allows Marcus to hear for the first time the [[Serafina]]
+			- Because Marcus is BARELY a tier one in the power, he is only able to hear faint ideas that come from another voice. Nothing constant and not all the time
+		- Marcus does not know what the voice is but the words that it tells him burn inside him.
+		- Marcus has grown physically, emotionally, and mentally in his time a slave. He decides that he needs to unite with others to be able to get out of servitude
+		- Another slave begins to organize other slaves to break out of their situation.
+			- At first people are not keen on this man being the leader. Others that knew him from the [[1.0 Constituto Empire]] definitely aren't keen on him being the leader.
+			- Marcus has to convince them of his new humility and convince them that this new leader is doing the right thing.
+			- Some slaves work against him and for themselves by trying to rat him out to the Tribal authorities.
+			- Marcus reflects on how not long ago he would have done the same.
+		- The leader organizes the slaves enough to fight a small skirmish in the Tribe as they are leaving. They are able to escape and ignite the tribe as they are making their escape.
+	- The invasion of [[2.0 Frostrike]]
+		- The escaped villagers make it into the wilderness of the [[2.0 Frostrike]]
+		- They only have scant resources and so they need to be wise in their next decisions
+		- Everyone is looking the one who broke them out now. They put all their trust into him and they have no other option but to rely on him for their safety.
+		- Everyone is worried that they won't be able to make it out alive.
+			- Marcus learns to follow someone's lead, and be confident in himself. 
+			- He learns to work with people that disagree with him and to also trust in the people that lead him.
+		- As they are moving through the wilderness, the run into other trials such as wild polar bears, search parties, and bitter cold.
+		- They avoid other tribal villages and work to make their way to the coast.
+		- As they come closer to the coast, the see from a mountain top the beginnings of the [[1.0 Constituto Empire]]
+		- They are bolstered by this and make extra haste to get to the coast.
+		- Once they reach the coast they assist in the battles on the shore against the [[2.0 Frostrike]]. There is some confusion at the beginning of the battle but quickly they are taken in by the leading commander and given an opportunity to assist.
+		- With the battle over the escaped slaves are told the current events and told that they will be taken back to the [[1.0 Constituto Empire]]
+		- They do return to the Empire and are welcomed as heroes. Those from other nations are ferried onto their own nations. 
+		- Marcus meets with some of the senators and explains what happened to him sparking the conversation of preventing this from happening again with a coalition
+		- Marcus is instructed by scholars of the [[1.0 Constituto Empire]] in things that they have learned further about the power of fire. Marcus is able to teach them what he learned as well. Everyone is a tier one at this point.
+		- Marcus trains as a proper soldier as his father would have wanted and eventually goes back to the [[2.0 Frostrike]] as an elite soldier or #Praetorean to help with the strategic dispatching of the prominent leaders. 
+			- His passion now being on what he believes to be the safety of his homeland
+		- After dispatching the leaders, the rest retreating further into the mountains, [[2.0 Frostrike]] is conquered.
+	- The thriving Empire
+
+While Marcus is in [[1.1 Dormiens Ignis]] 

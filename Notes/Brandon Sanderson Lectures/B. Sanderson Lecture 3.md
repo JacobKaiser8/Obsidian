@@ -1,0 +1,94 @@
+Outlines
+- Character
+	- Main Characters each get their own heading here
+		- Intro: A paragraph of who they are
+		- Arcs (1, 2, 3, etc.)
+	- Side Characters
+		- These will be bulleted
+- Setting
+	- These will be like encyclopedia entries
+	- Magic/Tech
+	- World Building
+	- Cultural
+- Plot
+	- Promises, Progress, Payoff
+		- Progress is going to be the most important because then you can meld the promises and the payoff around this
+	- Plot Archetypes
+		- Look at the plot achetypes and break it down. See what parts you like/don't like and what you want to do with each part.
+		- Underdog
+		- Mistborn: Heist, Master Apprentice, Information Plot (Mystery), Relationship
+		- Heist:
+			- Oceans 11: 
+				- Gather a team
+				- One newbie to explain the problem to
+				- Explain the problem
+				- Break it into little pieces. You follow someone, generally the newbie to get all the little pieces figured out
+					- Anticipation grows as the problems are "solved"
+					- Makes a promise scene easier to write.
+				- One big piece missing that is not revealed yet
+				- Twist is that someone always knew how the problem was going to be solved. The reader or observer just didn't know it.
+			- Italian Job
+				- Gather a team
+				- Explain the problem
+				- Introduce problems A, B, C, D
+				- Solved with solutions 1, 2, 3, 4
+				- End the problems are actually E, F, G, H (Planning is out the window and they have to solve the issues on the fly)
+					- The solutions get jumbled up to solve the problems in unexpected ways
+				- You want to give the promise that you promise. This style keeps the investment without being predictable. You don't want to throw the invested time and experience out the window
+			- MIstborn is the oceans 11 style with Kelsier hiding things from everyone else
+			- You can set expectations because you set that it will be difficult but it will be done
+		- Murder Mystery
+			- Can I figure it out
+				- Part of the promise is that the reader could have figured this out. If you don't allow the chance for the reader to figure it out the reader will feel very unsatisfied
+			- Puzzle
+			- Witty characters
+			- Information plot: Progress is the characters trying to figure out the information as they go along the way
+		- Romance
+			- Wish fulfilment
+			- Relatability
+			- Knowing the end but having the how
+			- Nice to remember how it used to feel?
+	- HOW BRANDON DOES IT:
+		- Outline backwards: Start with the goal
+			- Bullet points of all the steps that will take you from the beginning to the end
+			- Bullet points are ideas but they are not scenes yet
+			- In a mystery, the bullet points are clues or red herrings
+		- These are done for every plot cycle and every character arc
+		- Organizing the bullet points into chapters
+			- This is done before and while writing
+		- This allows you to write for smaller simpler goals
+	- The shorter the piece you are writing the fewer of the plot archetypes that you will have. It is not a 1 to 1.
+	- You generally want at least 1 plot archetype, 1 character arc, 1 sub plot archetype
+	- You need a central sturdy plot that will make the plot feel much more sound and relatable. This will make sure the story doesn't feel confused
+	- Plots and characters are difficult to be different and remain interesting. Popular fiction goes back to certain archetypes because they are interesting. A lot of the time creativity comes from the setting as long as your character is relatable. Setting is where you can really tell a story. Plot and character should remain grounded in something relatable.
+- Plot structures
+	- The Heroes journey
+		- Character at home who doesn't want to go on adventure
+		- They are called on adventure
+		- They refuse to go out on adventure
+		- They are forced onto the adventure and out into the unknown
+		- Trials, road of tribulations
+			- characters learn to overcome them
+			- usually a mentor, then there isn't a mentor
+			- buddies
+		- Decent into the underworld
+			- Buddies are no longer there
+			- Metaphorically or literally dies
+		- Redemption arc, atonement
+		- Rewarded with the elixir and then they return to home changed
+		- Can go wrong:
+			- Hero story does not always match every story
+			- Holes get made in the story
+			- If too rigid to the plot structure you can put things into the story that just don't work
+		- This one works because its similar to the human life. Teenagers don't want to leave the house and have to go live on their own. Then they are thrust into the unknown world
+	- Three Act format
+		- First Act to Second Act is generally where the character becomes proactive. 
+		- Second Act to Third Act is generally the low point
+		- Generally a mid point twist where the stakes change in some dramatic way
+		- In the second act there is increased stakes and tension
+		- Third Act is the ending with the wind down
+- Discovery Writing
+	- "Yes, But...." "No, and.... "
+		- There is a problem and the character goes to do the most intelligent and reasonable things that they could do right now. They do that and then ask yourself, "Was it successful?" If yes then say "But..." and add on another issue that come as a result of the solution. If not successful, then add escalation to the issue.
+		- This creates movement for the character. Then as you come back from the end you can tweak issues to flow better into the story, or add foreshadowing.
+		- 

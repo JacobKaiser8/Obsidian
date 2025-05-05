@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "9c862aa13823afe9",
+    "type": "split",
+    "children": [
+      {
+        "id": "c63d9b20dd155251",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "829411777db68005",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "World Building/Characters/Deities/Inspiration.canvas",
+                "viewState": {
+                  "x": 411,
+                  "y": -5.891241830065383,
+                  "zoom": -0.20084102886298835
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Inspiration"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e45b5427822d757d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c027e6776a044934",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e47e15c5edacb8f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8f1cb1a8a1a5ab9d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a4cdca00ef09164a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 221.5
+  },
+  "right": {
+    "id": "8731730c37be3758",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b7531fd451a50e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c608d812d72fb98",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "World Building/Characters/Deities/Inspiration.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Inspiration"
+            }
+          },
+          {
+            "id": "19b2fa96732180f7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "World Building/Characters/Deities/Inspiration.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Inspiration"
+            }
+          },
+          {
+            "id": "e44c82935b7e578a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9aaa9efe2fa5c96d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "World Building/Characters/Deities/Inspiration.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Inspiration"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "829411777db68005",
+  "lastOpenFiles": [
+    "Pasted image 20250425101515.png",
+    "Pasted image 20250425101002.png",
+    "World Building/Characters/Character Inspiration.canvas",
+    "Canvas Images/Pasted image 20250425095557.png",
+    "World Building/Characters/Deities/Inspiration.canvas",
+    "Canvas Images/Pasted image 20250425100417.png",
+    "World Building/Characters/Deities/Deities Overview.md",
+    "World Building/Characters/Deities/Chikako.md",
+    "World Building/Characters/Deities/Bjørn.md",
+    "Story Progression/World Progression.md",
+    "Story Progression/Deific Progression.md",
+    "Story Progression/Marcus Progression.md",
+    "Chapters/Chapter 2.md",
+    "Chapters/Chapter 1.md",
+    "World Building/Locations/2.0 Frostrike.md",
+    "Special Animals.md",
+    "Westing House.md",
+    "Canvas Images/Pasted image 20241002155356.png",
+    "World Building/Locations/00. Inspiration Images.canvas",
+    "World Building/Locations/1.0 Constituto Empire.md",
+    "Canvas Images/Pasted image 20241002085627.png",
+    "World Building/Locations/1.1 Dormiens Ignis.md",
+    "Notes/Chat GPT suggestions.md",
+    "World Building/Locations/3.0 Suirlin.md",
+    "World Building/Locations/6.0 Abodeena.md",
+    "World Building/Locations/5.0 Tihi Kohatu.md",
+    "World Building/Locations/4.0 Chishiki no Kaze.md",
+    "World Building/Characters/Deities/Kaplakhan.md",
+    "World Building/Characters/1.1.0 Marcus Equites.md",
+    "World Building/Characters/0. Characters.md",
+    "World Building/Characters/Yirmiyahu.md",
+    "Notes/Book club Notes/Connor's Book.md",
+    "Notes/Brandon Sanderson Lectures/B. Sanderson Lecture 4 Viewpoints.md",
+    "Notes/Brandon Sanderson Lectures/B. Sanderson Lecture 5 World Building Pt 1.md",
+    "Notes/Book club Notes",
+    "Canvas Images/Pasted image 20240826131454.png",
+    "Canvas Images/Pasted image 20240826130225.png",
+    "Canvas Images/Pasted image 20240826130205.png",
+    "Canvas Images/Pasted image 20240826130134.png",
+    "Canvas Images/Pasted image 20240826125550.png",
+    "Notes/Brandon Sanderson Lectures",
+    "Chapters",
+    "Notes/Story Archetypes",
+    "Notes",
+    "Canvas Images",
+    "World Building",
+    "World Building/Locations",
+    "World Building/Characters/Deities",
+    "World Building/Characters",
+    "Magic System/Untitled.canvas"
+  ]
+}
