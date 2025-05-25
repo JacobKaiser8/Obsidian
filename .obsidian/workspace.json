@@ -35,10 +35,14 @@
             "id": "87b653df338cf299",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Book club Notes/Connor's Book.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Connor's Book"
             }
           }
         ],
